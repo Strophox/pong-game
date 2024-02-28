@@ -1,4 +1,4 @@
-# pong-java
+# pong-game
 
 Pong game made as part of a university exercise and extended with features during my free time.
 
